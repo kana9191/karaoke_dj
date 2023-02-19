@@ -50,3 +50,6 @@
 4. β版をRUNTEQ内リリース（MVP）：3/27〆切
 5. 本番リリース：4月中旬
 ```
+
+### 画面遷移図
+https://www.figma.com/file/VrJVRMjM7AmXL3jnDbLelN/karaokeDJ%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=yuzBEQXF81PqDXYs-1
